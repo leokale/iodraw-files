@@ -4,14 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ygS5JMIwd5cFdGzpBNSA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="130" width="210" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="icSrkopLuFjJk7iWRzHv-1" value="数据标注平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="170" y="332" width="947" height="221" as="geometry" />
         </mxCell>
         <mxCell id="icSrkopLuFjJk7iWRzHv-2" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="355" y="210" width="108" height="49" as="geometry" />
+          <mxGeometry x="290" y="110" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="icSrkopLuFjJk7iWRzHv-3" value="任务管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="205" y="357" width="126" height="49" as="geometry" />
@@ -23,7 +20,7 @@
           <mxGeometry x="781" y="357" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="icSrkopLuFjJk7iWRzHv-6" value="标注员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="555" y="210" width="109" height="49" as="geometry" />
+          <mxGeometry x="610" y="120" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="icSrkopLuFjJk7iWRzHv-7" value="审核员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="863" y="210" width="108" height="49" as="geometry" />
