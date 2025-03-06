@@ -4,44 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="icSrkopLuFjJk7iWRzHv-1" value="数据标注平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-1" value="数据标注平台" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="332" width="947" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-2" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-2" value="管理员" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-3" value="任务管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-3" value="任务管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="357" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-4" value="标注操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-4" value="标注操作" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="357" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-5" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-5" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="781" y="357" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-6" value="标注员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-6" value="标注员" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="120" width="109" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-7" value="审核员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="863" y="210" width="108" height="49" as="geometry" />
+        <mxCell id="icSrkopLuFjJk7iWRzHv-7" value="审核员" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-8" value="审核管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-8" value="审核管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="957" y="357" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-9" value="数据管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-9" value="数据管理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="327" y="479" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-10" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-10" value="数据分析" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="781" y="479" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-11" value="创建标注任务" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-2" target="icSrkopLuFjJk7iWRzHv-3">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-11" value="创建标注任务" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-2" target="icSrkopLuFjJk7iWRzHv-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="268" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-12" value="分配标注任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-2" target="icSrkopLuFjJk7iWRzHv-4">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-12" value="分配标注任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0;entryY=0.05;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-2" target="icSrkopLuFjJk7iWRzHv-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="296" />
@@ -49,14 +49,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-13" value="查看任务进度" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-2" target="icSrkopLuFjJk7iWRzHv-5">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-13" value="查看任务进度" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-2" target="icSrkopLuFjJk7iWRzHv-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="844" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-14" value="执行标注任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-6" target="icSrkopLuFjJk7iWRzHv-4">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-14" value="执行标注任务" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.47;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-6" target="icSrkopLuFjJk7iWRzHv-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="522" y="296" />
@@ -64,14 +64,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-15" value="审核标注结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-7" target="icSrkopLuFjJk7iWRzHv-8">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-15" value="审核标注结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-7" target="icSrkopLuFjJk7iWRzHv-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1020" y="296" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-16" value="提交标注问题" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=1;entryY=0.02;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-7" target="icSrkopLuFjJk7iWRzHv-4">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-16" value="提交标注问题" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=1;entryY=0.02;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-7" target="icSrkopLuFjJk7iWRzHv-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="662" y="296" />
@@ -79,28 +79,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-17" value="上传原始数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-3" target="icSrkopLuFjJk7iWRzHv-9">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-17" value="上传原始数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-3" target="icSrkopLuFjJk7iWRzHv-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="268" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-18" value="导出标注结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.94;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-4" target="icSrkopLuFjJk7iWRzHv-9">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-18" value="导出标注结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.94;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-4" target="icSrkopLuFjJk7iWRzHv-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-19" value="查看标注统计" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-5" target="icSrkopLuFjJk7iWRzHv-10">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-19" value="查看标注统计" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.31;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-5" target="icSrkopLuFjJk7iWRzHv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="784" y="443" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="icSrkopLuFjJk7iWRzHv-20" value="生成标注报告" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.82;entryY=0;rounded=0;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-5" target="icSrkopLuFjJk7iWRzHv-10">
+        <mxCell id="icSrkopLuFjJk7iWRzHv-20" value="生成标注报告" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.82;entryY=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="icSrkopLuFjJk7iWRzHv-5" target="icSrkopLuFjJk7iWRzHv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="946" y="443" />
