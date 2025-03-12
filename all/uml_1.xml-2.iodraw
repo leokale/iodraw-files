@@ -594,7 +594,7 @@
             <mxRectangle width="36" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-133" value="FacilityID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-131">
+        <mxCell id="hsbF-fObuDvcquDnU1es-133" value="FacilityTypeID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-131">
           <mxGeometry x="36" width="72" height="21" as="geometry">
             <mxRectangle width="72" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -612,7 +612,7 @@
             <mxRectangle width="36" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-137" value="FacilityName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-135">
+        <mxCell id="hsbF-fObuDvcquDnU1es-137" value="FacilityTypeName" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-135">
           <mxGeometry x="36" width="72" height="21" as="geometry">
             <mxRectangle width="72" height="21" as="alternateBounds" />
           </mxGeometry>
