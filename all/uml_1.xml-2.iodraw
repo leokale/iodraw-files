@@ -1025,7 +1025,7 @@
             <mxRectangle width="72" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-246" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-243">
+        <mxCell id="hsbF-fObuDvcquDnU1es-246" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-243">
           <mxGeometry x="108" width="22" height="21" as="geometry">
             <mxRectangle width="22" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -1988,7 +1988,7 @@
             <mxRectangle width="36" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-517" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-515">
+        <mxCell id="hsbF-fObuDvcquDnU1es-517" value="地理位置" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-515">
           <mxGeometry x="36" width="72" height="21" as="geometry">
             <mxRectangle width="72" height="21" as="alternateBounds" />
           </mxGeometry>
@@ -2034,7 +2034,7 @@
             <mxRectangle width="22" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-528" value="线路信息表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="hsbF-fObuDvcquDnU1es-528" value="线路详情表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="1821" width="130" height="152" as="geometry" />
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-529" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hsbF-fObuDvcquDnU1es-528">
