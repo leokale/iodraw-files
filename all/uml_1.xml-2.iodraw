@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="2074" dy="40" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="40" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,7 +584,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-130" value="电力设施类型表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="1700" width="130" height="152" as="geometry" />
+          <mxGeometry x="-180" y="1574" width="130" height="152" as="geometry" />
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-131" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hsbF-fObuDvcquDnU1es-130">
           <mxGeometry y="25" width="130" height="21" as="geometry" />
@@ -1027,7 +1027,7 @@
             <mxRectangle width="22" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-230" value="配电站信息表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="hsbF-fObuDvcquDnU1es-230" value="输电线路信息表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1700" width="130" height="152" as="geometry" />
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-231" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hsbF-fObuDvcquDnU1es-230">
