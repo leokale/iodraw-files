@@ -584,10 +584,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-130" value="电力设施类型表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-410" y="1560" width="130" height="71" as="geometry" />
+          <mxGeometry x="-410" y="1560" width="150" height="71" as="geometry" />
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-131" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hsbF-fObuDvcquDnU1es-130">
-          <mxGeometry y="25" width="130" height="21" as="geometry" />
+          <mxGeometry y="25" width="150" height="21" as="geometry" />
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-132" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-131">
           <mxGeometry width="36" height="21" as="geometry">
@@ -600,12 +600,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-134" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-131">
-          <mxGeometry x="108" width="22" height="21" as="geometry">
-            <mxRectangle width="22" height="21" as="alternateBounds" />
+          <mxGeometry x="108" width="42" height="21" as="geometry">
+            <mxRectangle width="42" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-135" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="hsbF-fObuDvcquDnU1es-130">
-          <mxGeometry y="46" width="130" height="24" as="geometry" />
+          <mxGeometry y="46" width="150" height="24" as="geometry" />
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-136" value="string" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-135">
           <mxGeometry width="36" height="24" as="geometry">
@@ -618,8 +618,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-138" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-135">
-          <mxGeometry x="108" width="22" height="24" as="geometry">
-            <mxRectangle width="22" height="24" as="alternateBounds" />
+          <mxGeometry x="108" width="42" height="24" as="geometry">
+            <mxRectangle width="42" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hsbF-fObuDvcquDnU1es-155" value="电厂信息表" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
@@ -1077,7 +1077,7 @@
             <mxRectangle width="36" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hsbF-fObuDvcquDnU1es-258" value="FacilityID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-256">
+        <mxCell id="hsbF-fObuDvcquDnU1es-258" value="GJ手段ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="hsbF-fObuDvcquDnU1es-256">
           <mxGeometry x="36" width="72" height="21" as="geometry">
             <mxRectangle width="72" height="21" as="alternateBounds" />
           </mxGeometry>
